@@ -9,8 +9,9 @@ A customer has reached out to you asking for your help to automate the process o
 To simplify you can use a local folder on your computer as the FTP and instead of sending orders to an API write the orders to files on disc in a JSON format.
 
 A diagram of what you will be creating:
+![image](https://user-images.githubusercontent.com/1340052/147926048-b051c849-c214-4fbc-92fb-ae6a12f37887.png)
 
 The customer has provided you with the following information:
-POS text files examples
-Order DTO definition
+[POS text files examples](https://github.com/MaksimerAB/MockAssessment)
+[Order DTO definition](https://github.com/MaksimerAB/MockAssessment)
 They have also told you they want one order per file to the ERP
