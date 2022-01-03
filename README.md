@@ -10,7 +10,7 @@ To simplify you can use a local folder on your computer as the FTP and instead o
 
 A diagram of what you will be creating:
 ![image](https://user-images.githubusercontent.com/1340052/147926048-b051c849-c214-4fbc-92fb-ae6a12f37887.png)
-<img src="https://user-images.githubusercontent.com/1340052/147926048-b051c849-c214-4fbc-92fb-ae6a12f37887.png" alt="drawing" width="200" height="100"/>
+<img src="https://user-images.githubusercontent.com/1340052/147926048-b051c849-c214-4fbc-92fb-ae6a12f37887.png" alt="drawing" width="400" height="200"/>
 The customer has provided you with the following information:
 [POS text files examples](https://github.com/MaksimerAB/MockAssessment)
 [Order DTO definition](https://github.com/MaksimerAB/MockAssessment)
