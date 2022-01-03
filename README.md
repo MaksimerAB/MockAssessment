@@ -13,7 +13,7 @@ A diagram of what you will be creating: <br />
 <img src="https://user-images.githubusercontent.com/1340052/147926048-b051c849-c214-4fbc-92fb-ae6a12f37887.png" alt="drawing" width="400" height="200"/>
 <br />
 <br />
-The customer has provided you with the following information:
-[POS text files examples](https://github.com/MaksimerAB/MockAssessment)
-[Order DTO definition](https://github.com/MaksimerAB/MockAssessment)
-They have also told you they want one order per file to the ERP
+The customer has provided you with the following information: <br />
+[POS text files examples](https://github.com/MaksimerAB/MockAssessment)<br />
+[Order DTO definition](https://github.com/MaksimerAB/MockAssessment)<br />
+They have also told you they want one order per file to the ERP<br />
