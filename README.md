@@ -14,6 +14,6 @@ A diagram of what you will be creating: <br />
 <br />
 <br />
 The customer has provided you with the following information: <br />
-[POS text files examples](https://github.com/MaksimerAB/MockAssessment)<br />
-[Order DTO definition](https://github.com/MaksimerAB/MockAssessment)<br />
+[POS text files examples](https://github.com/MaksimerAB/MockAssessment/tree/main/POS%20files)<br />
+[Order DTO definition](https://github.com/MaksimerAB/MockAssessment/tree/main/ERP%20DTO)<br />
 They have also told you they want one order per file to the ERP<br />
