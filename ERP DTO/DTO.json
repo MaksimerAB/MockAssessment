@@ -1,0 +1,19 @@
+{
+    "OrderNumber": "",
+    "OrderDate": "",
+    "CompanyCode": "",
+    "PosNumber": "",
+    "Address": "",
+    "Phone": "",
+    "Rows": [
+        {
+            "ArticleNumber": "",
+            "Size": "",
+            "Quantity": 0,
+            "PriceIncVat": 0,
+            "PriceExcVat": 0,
+            "Color": "",
+            "Reference": ""
+        }
+    ]
+}
